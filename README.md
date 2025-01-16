@@ -2,8 +2,13 @@
 <img src="img/BCI_Core_8.jpg" alt="drawing"/><br/>
 </p>
 <br>
-<h3 align="center" style="font-size: 50px;"> Unicorn BCI Core-8 </h1>
-<br><br>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Unicorn BCI Core-8  </h1>
+    </summary>
+  </ul>
+</div>
 
 [Glossary](#glossary)<br/>
 [Safety Notice](#safety-notice)<br/>
