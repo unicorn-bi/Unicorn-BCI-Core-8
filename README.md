@@ -2,7 +2,7 @@
 <img src="img/BCI_Core_8.jpg" alt="drawing"/><br/>
 </p>
 <br>
-<h1 align="center" style="border-bottom: 0;"> Unicorn BCI Core-8 </h1>
+<h3 align="center" style="font-size: 30px;"> Unicorn BCI Core-8 </h1>
 <br><br>
 
 [Glossary](#glossary)<br/>
