@@ -1,9 +1,9 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 <p align="center">
 <img src="img/BCI_Core_8.jpg" alt="drawing"/><br/>
 </p>
-<h1 align="center" > Unicorn BCI Core-8 </h1>
-<br/>
+<br>
+<h1 align="center" style="border-bottom: 0;"> Unicorn BCI Core-8 </h1>
+<br><br>
 
 [Glossary](#glossary)<br/>
 [Safety Notice](#safety-notice)<br/>
