@@ -578,7 +578,7 @@ The Unicorn Brain Interface can be stored at temperatures between –20° to +45
 ## Location details
 Do not use the Unicorn Brain Interface near a heating system or directly in the sun. During operation, the outside temperature should be between +5° Celsius and +35° Celsius and the air pressure between 700 and 1060 hPa.
 
-## Wast disposal details
+## Waste disposal details
 Bring the Unicorn Brain Interface to a recycling center or sent it back to the manufacturer.
 
 ## Warranty
