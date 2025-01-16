@@ -2,7 +2,7 @@
 <img src="img/BCI_Core_8.jpg" alt="drawing"/><br/>
 </p>
 <br>
-<div id="toc">
+<div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
       <h1> Unicorn BCI Core-8  </h1>
