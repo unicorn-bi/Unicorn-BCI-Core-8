@@ -292,7 +292,11 @@ The Unicorn BCI Core-8 Cap is a fabric EEG cap holding the Unicorn BCI Core-8 El
 TBD
 
 <p align="center">
-<img src="img/BCICore8Dog.jpg" alt="drawing" width="500"/><br/>
+<img src="img/BCICore8Dog1.jpg" alt="drawing" width="500"/><br/>
+</p>
+
+<p align="center">
+<img src="img/BCICore8Dog2.jpg" alt="drawing" width="500"/><br/>
 </p>
 
 ### Unicorn BCI Core-8 Horse Headstrap
