@@ -22,7 +22,9 @@
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Amplifier](#unicorn-headband-amplifier)<br/>
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Basestation](#unicorn-headband-basestation)<br/>
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Electrodes](#unicorn-headband-electrodes)<br/>
-&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Cap](#unicorn-headband-cap)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Cap](#unicorn-headband-cap)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Dog Headstrap](#unicorn-headband-dog-headstrap)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Horse Headstrap](#unicorn-headband-horse-headstrap)<br/>
 &nbsp;&nbsp;&nbsp;[Device handling](#device-handling)<br/>
 
 &nbsp;&nbsp;&nbsp;[Technical Specifications](#technical-specifications)<br/>
@@ -277,16 +279,28 @@ The Unicorn BCI Core-8 EEG Electrodes are made of a conductive rubber that allow
 <img src="img/unicorn_headband_10.png" alt="drawing" width="200"/><br/>
 </p>
 
-## Unicorn BCI Core-8 Band
+### Unicorn BCI Core-8 Cap
 
-The Unicorn BCI Core-8 Band is a fabric headband holding the Unicorn BCI Core-8 Electrodes to be able to measure clean EEG.
+The Unicorn BCI Core-8 Cap is a fabric EEG cap holding the Unicorn BCI Core-8 Electrodes to be able to measure clean EEG.
 
 <p align="center">
-<img src="img/unicorn_headband_9.png" alt="drawing" width="500"/><br/>
+<img src="img/TBD.png" alt="drawing" width="500"/><br/>
 </p>
 
+### Unicorn BCI Core-8 Dog Headstrap
+
+TBD
+
 <p align="center">
-<img src="img/unicorn_headband_11.png" alt="drawing" width="500"/><br/>
+<img src="img/BCICore8Dog.jpg" alt="drawing" width="500"/><br/>
+</p>
+
+### Unicorn BCI Core-8 Horse Headstrap
+
+TBD
+
+<p align="center">
+<img src="img/BCICore8Horse.jpg" alt="drawing" width="500"/><br/>
 </p>
 
 ## Device handling
