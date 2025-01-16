@@ -165,7 +165,7 @@ Altitude: 2000m or less<br>
 The Unicorn BCI Core-8 System consists of the Unicorn BCI Core-8 Amplifier, Unicorn BCI Core-8 Basestation, Unicorn BCI Core-8 Cap and Unicorn BCI Core-8 Electrodes.
 
 <p align="center">
-<img src="img/unicorn_headband_2.png" alt="drawing" width="500"/><br/>
+<img src="img/tbd.png" alt="drawing" width="500"/><br/>
 </p>
 
 ## Unicorn BCI Core-8 Amplifier
