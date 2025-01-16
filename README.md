@@ -19,12 +19,12 @@
 &nbsp;&nbsp;&nbsp;[Conditions Of Use](#conditions-of-use)<br/>
 
 [Hardware](#hardware)<br/>
-&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Amplifier](#unicorn-headband-amplifier)<br/>
-&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Basestation](#unicorn-headband-basestation)<br/>
-&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Electrodes](#unicorn-headband-electrodes)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Cap](#unicorn-headband-cap)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Dog Headstrap](#unicorn-headband-dog-headstrap)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Horse Headstrap](#unicorn-headband-horse-headstrap)<br/>
+&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Amplifier](#unicorn-bci-core-8-amplifier)<br/>
+&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Basestation](#unicorn-bci-core-8-basestation)<br/>
+&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Electrodes](#unicorn-bci-core-8-electrodes)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Cap](#unicorn-bci-core-8-cap)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Dog Headstrap](#unicorn-bci-core-8-dog-headstrap)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Horse Headstrap](#unicorn-bci-core-8-horse-headstrap)<br/>
 &nbsp;&nbsp;&nbsp;[Device handling](#device-handling)<br/>
 
 &nbsp;&nbsp;&nbsp;[Technical Specifications](#technical-specifications)<br/>
