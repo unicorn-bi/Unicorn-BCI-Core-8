@@ -378,7 +378,7 @@ Charge the the device if the status LED doesn't start fading when placed on the 
 Remove the Unicorn BCI Core-8 Amplifier from the Unicorn BCI Core-8 Basestation to turn the device off. Put the device onto the Unicorn BCI Core-8 Basestation so you can see the USB connector and the gold pins. The magnetic connector should hold the device on the Unicorn BCI Core-8 Basestation.
 
 <p align="center">
-<img src="img/unicorn_headband_4.png" alt="drawing" width="500"/><br/>
+<img src="img/tbd.png" alt="drawing" width="500"/><br/>
 </p>
 
 ### Charging the device
