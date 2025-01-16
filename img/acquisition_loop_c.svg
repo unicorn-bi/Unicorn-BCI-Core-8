@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="140mm"
+   viewBox="0 0 100 140"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="acquisition_loop.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1173"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1171"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4896"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4894"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4892"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4890"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4888"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4886"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4884"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4882"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4876"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4874"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4872"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4605"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4869"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4867"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4865"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4602"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4840"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4838"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4833"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4829"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4827"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4823"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4561"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4558"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5871"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5869" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5579"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5577" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4840-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4838-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#00656f;fill-opacity:1;fill-rule:evenodd;stroke:#00656f;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="137.22577"
+     inkscape:cy="228.18998"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4485" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.998;fill:#ffffff;stroke-width:0.217241;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1546"
+       width="97.895836"
+       height="119.0625"
+       x="0.93333811"
+       y="10.845202"
+       ry="2.2852151" />
+    <rect
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.50998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489"
+       width="37.041668"
+       height="10.583333"
+       x="13.229165"
+       y="37.041668"
+       ry="2.4883454"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="17.991663"
+       y="43.694042"
+       id="text4493"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4491"
+         x="17.991663"
+         y="43.694042"
+         style="fill:#ffffff;stroke-width:0.264583">Open Device</tspan></text>
+    <circle
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4495"
+       cx="31.750008"
+       cy="21.957705"
+       r="5.2916665"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.50998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489-4"
+       width="37.041668"
+       height="10.583333"
+       x="13.229165"
+       y="55.562511"
+       ry="2.4883454"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.542234"
+       y="59.569042"
+       id="text4493-5"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="31.542234"
+         y="59.569042"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1019">Register Data</tspan><tspan
+         sodipodi:role="line"
+         x="31.542234"
+         y="64.860703"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1023">Callback</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4560"
+       sodipodi:sides="4"
+       sodipodi:cx="10.583333"
+       sodipodi:cy="74.75"
+       sodipodi:r1="23.8125"
+       sodipodi:r2="13.229166"
+       sodipodi:arg1="1.7903439e-15"
+       sodipodi:arg2="0.78539819"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 34.395833,74.75 -23.8125,23.8125 -23.8125,-23.8125 23.8125,-23.8125 z"
+       transform="matrix(0.61111112,0,0,0.38888883,25.282416,52.951391)"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4495-7"
+       cx="76.918129"
+       cy="121.89708"
+       r="5.2916665"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.50998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489-2"
+       width="37.041668"
+       height="10.583333"
+       x="58.208344"
+       y="76.729164"
+       ry="2.4883454"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.992226"
+       y="81.26487"
+       id="text4493-8"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4491-8"
+         x="75.992226"
+         y="81.26487"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">Unregister Data</tspan><tspan
+         sodipodi:role="line"
+         x="75.992226"
+         y="86.556534"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1025">Callback</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4495-7-5"
+       cx="76.918129"
+       cy="121.89708"
+       r="3.9687498"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.59424px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22464"
+       x="31.551003"
+       y="79.601234"
+       id="text5643"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5641"
+         x="31.551003"
+         y="79.601234"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.22464">while</tspan><tspan
+         sodipodi:role="line"
+         x="31.551003"
+         y="84.094032"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.22464"
+         id="tspan5645">(acquiring)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34547px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;fill:#00656f;fill-opacity:1;stroke:none;stroke-width:0.209092"
+       x="32.891819"
+       y="94.680527"
+       id="text5649"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5647"
+         x="32.891819"
+         y="94.680527"
+         style="fill:#00656f;fill-opacity:1;stroke-width:0.209092">true</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34547px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;fill:#00656f;fill-opacity:1;stroke:none;stroke-width:0.209092"
+       x="46.922363"
+       y="85.931129"
+       id="text5649-8"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5647-9"
+         x="46.922363"
+         y="85.931129"
+         style="fill:#00656f;fill-opacity:1;stroke-width:0.209092">false</tspan></text>
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5579)"
+       d="m 31.750008,66.145834 v 6.61458"
+       id="path5775"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.50998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489-2-9"
+       width="37.041668"
+       height="10.583333"
+       x="58.208344"
+       y="97.895569"
+       ry="2.4883454"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.970886"
+       y="104.5479"
+       id="text4493-8-7"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4491-8-7"
+         x="62.970886"
+         y="104.5479"
+         style="fill:#ffffff;stroke-width:0.264583">Close Device</tspan></text>
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4823)"
+       d="M 76.729192,87.312494 V 97.895855"
+       id="path4556"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4829)"
+       d="m 76.729192,108.47918 v 7.9375"
+       id="path4825"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4892)"
+       d="M 17.197924,82.020834 H 5.2916716 v 21.166946 l 26.3333334,-0.003 V 91.278535"
+       id="path4831"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4840)"
+       d="m 46.302092,82.020834 h 11.90625"
+       id="path4836"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4876)"
+       d="m 31.750008,47.624997 v 7.937497"
+       id="path4600"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4888)"
+       d="m 31.750008,27.252093 v 9.260416"
+       id="path4880"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;fill:#00c8dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.50998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489-4-2"
+       width="37.041668"
+       height="10.583333"
+       x="59.14167"
+       y="55.824368"
+       ry="2.4883454"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#00656f;stroke-width:0.214087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4840-9)"
+       d="m 50.145838,61.116035 h 8.73125"
+       id="path4836-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.019058"
+       y="60.089947"
+       id="text4493-5-4"
+       inkscape:export-filename="C:\Users\walchshofer\acquisitionLoop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="78.019058"
+         y="60.089947"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1023-0">Data Available </tspan><tspan
+         sodipodi:role="line"
+         x="78.019058"
+         y="65.381607"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1544">Event Handler</tspan></text>
+  </g>
+</svg>
