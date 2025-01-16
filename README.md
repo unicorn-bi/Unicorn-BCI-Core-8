@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Amplifier](#unicorn-headband-amplifier)<br/>
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Basestation](#unicorn-headband-basestation)<br/>
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Electrodes](#unicorn-headband-electrodes)<br/>
-&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Band](#unicorn-headband-band)<br/>
+&nbsp;&nbsp;&nbsp;[Unicorn BCI Core-8 Cap](#unicorn-headband-cap)<br/>
 &nbsp;&nbsp;&nbsp;[Device handling](#device-handling)<br/>
 
 &nbsp;&nbsp;&nbsp;[Technical Specifications](#technical-specifications)<br/>
@@ -111,7 +111,7 @@ Unicorn BCI Core-8 Electrode and cable lifetime depends on proper usage, careful
 - Do not machine-wash!
 - Do not use a laundry dryer or other hot air devices!
 - Do not put into an ultrasonic bath!
-- Do not autoclave Unicorn BCI Core-8 Band or Unicorn BCI Core-8 Electrodes!
+- Do not autoclave Unicorn BCI Core-8 Cap or Unicorn BCI Core-8 Electrodes!
 
 **Note:**<br>
 The manufacturer is responsible for the safety, performance and reliability of the Unicorn BCI Core-8 as supplied to the customer at the time of delivery. This responsibility expires if the Unicorn BCI Core-8 is changed. Please note the following:
@@ -160,7 +160,7 @@ Altitude: 2000m or less<br>
 
 ## Hardware
 
-The Unicorn BCI Core-8 System consists of the Unicorn BCI Core-8 Amplifier, Unicorn BCI Core-8 Basestation, Unicorn BCI Core-8 Band and Unicorn BCI Core-8 Electrodes.
+The Unicorn BCI Core-8 System consists of the Unicorn BCI Core-8 Amplifier, Unicorn BCI Core-8 Basestation, Unicorn BCI Core-8 Cap and Unicorn BCI Core-8 Electrodes.
 
 <p align="center">
 <img src="img/unicorn_headband_2.png" alt="drawing" width="500"/><br/>
@@ -221,7 +221,7 @@ The Unicorn BCI Core-8 Amplifier is the data acquisition unit. It acquires data 
 The Unicorn BCI Core-8 Basestation is connecting the Unicorn BCI Core-8 Amplifier to the Unicorn BCI Core-8 Electrodes. It is also used to turn the device on and off.
 
 <p align="center">
-<img src="img/unicorn_headband_6.png" alt="drawing" width="500"/><br/>
+<img src="img/BCICore8Base.jpg" alt="drawing" width="500"/><br/>
 </p>
 
 The Unicorn BCI Core-8 features 9 electrodes to measure 8 channels EXG.
@@ -571,7 +571,8 @@ The EMC declaration is available on request.
 
 ### Declaration of Conformity
 The declaration of conformity is available on request.
-
+<br>
+<br>
 <br>
 <br>
 <p align="center">
