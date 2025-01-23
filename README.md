@@ -284,7 +284,7 @@ The Unicorn BCI Core-8 EEG Electrodes are made of a conductive rubber that allow
 The Unicorn BCI Core-8 Cap is a fabric EEG cap holding the Unicorn BCI Core-8 Electrodes to be able to measure clean EEG.
 
 <p align="center">
-<img src="img/TBD.png" alt="drawing" width="500"/><br/>
+<img src="img/BCICore8Human.jpg" alt="drawing" width="500"/><br/>
 </p>
 
 ### Unicorn BCI Core-8 Dog Headstrap
