@@ -36,6 +36,7 @@
 
 Software<br/>
 &nbsp;&nbsp;&nbsp;[Unicorn BCI Core Recorder](https://github.com/unicorn-bi/Unicorn-BCI-Core-Recorder)<br/>
+&nbsp;&nbsp;&nbsp;[Unity Bandpower Interface](https://github.com/unicorn-bi/Unicorn-BCI-Core-Unity-Bandpower-Interface)<br/>
 <br/><br/>
 ## Glossary
 <table>
