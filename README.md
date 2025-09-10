@@ -263,8 +263,8 @@ The Unicorn BCI Core-8 features 9 electrodes to measure 8 channels EXG.
         <td>Channel 8</td>
     </tr>
     <tr>
-        <td>R</td>
         <td>GND</td>
+        <td>Ground</td>
     </tr>
 </table>
 
@@ -355,6 +355,13 @@ To connect or disconnect the clip connector to/from the Unicorn BCI Core-8 Elect
 
 <p align="center">
 <img src="img/unicorn_headband_8.png" alt="drawing" width="500"/><br/>
+</p>
+
+#### Standard Electrode Layout for the Unicorn BCI Core-8 
+The standard delivery of the Unicorn BCI Core-8 provides the electrode layout as seen in the figure below. 
+
+<p align="center">
+<img src="img/BCICore8_Electrode_Positions.png" alt="drawing" width="500"/><br/>
 </p>
 
 ### Turn the device on and off
