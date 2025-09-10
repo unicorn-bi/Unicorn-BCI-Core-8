@@ -264,7 +264,7 @@ The Unicorn BCI Core-8 features 9 electrodes to measure 8 channels EXG.
     </tr>
     <tr>
         <td>R</td>
-        <td>Reference channel</td>
+        <td>GND</td>
     </tr>
 </table>
 
