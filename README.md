@@ -371,7 +371,7 @@ You have to dock the Unicorn BCI Core-8 Amplifier on the Unicorn BCI Core-8 Base
 You have to remove the Unicorn BCI Core-8 Amplifier from the Unicorn BCI Core-8 Basestation to turn the device off.
 
 <p align="center">
-<img src="img/unicorn_headband_5.png" alt="drawing" width="500"/><br/>
+<img src="img/BCICore_ON_OFF.svg" alt="drawing" width="500"/><br/>
 </p>
 
 **Note:**<br>
